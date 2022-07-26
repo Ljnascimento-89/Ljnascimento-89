@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luciano Nascimento. 👋
 
 - 🌐 Desenvolvedor front_end.
-- 📓 Estudando para se tornar full_stack.
+- 📓 Aluno DevClub - Estudando para se tornar full_stack.
 - 💻 Atualmente estudando Node Js.
 
 
