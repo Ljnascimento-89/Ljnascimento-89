@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Luciano Nascimento. 👋
 
-- 🌐 Sou um desenvolvedor fron_end.
-- 💻 Estudando Node Js.
+- 🌐 Desenvolvedor front_end.
+- 📓 Estudando para se tornar full_stack.
+- 💻 Atualmente estudando Node Js.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianonascimentojr89/)
